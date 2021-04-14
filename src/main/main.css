@@ -1,0 +1,48 @@
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  font-weight: 500;
+  color: #333;
+}
+.canvasStyle {
+  display: block;
+  width: 1538px;
+  height: 649px;
+}
+.avatar {
+  vertical-align: middle;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.card_padding {
+  padding-top: 0.1em;
+  padding-bottom: 0em;
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+}
+.button_padding {
+  padding: 0em;
+  text-align: left;
+  font-weight: 600;
+}
+.column_padding_left {
+  padding-left: 2px;
+}
+.font_sofia {
+  font-family: 'Sofia';
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+.no_padding {
+  padding: 0em;
+}
+
+.fs_22 {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}

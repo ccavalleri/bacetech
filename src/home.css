@@ -1,0 +1,61 @@
+.border_red {
+  border: 2px solid red;
+}
+.jumbotron_expansion {
+  padding: 1rem 1rem;
+  border-top: 3px solid #c3c3e2;
+  -webkit-box-shadow: 0 2px 6px 0px rgb(177, 175, 175);
+  -moz-box-shadow: 0 2px 6px 0px rgb(177, 175, 175);
+  box-shadow: 0 2px 6px 0px rgb(177, 175, 175);
+}
+
+.card_body_exp {
+  width: 400px;
+}
+
+.row_custom {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -1px;
+  margin-left: -1px;
+}
+
+.font_weight {
+  font-weight: 400;
+}
+.shadow {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+.rounded {
+  border-radius: 0.5rem !important;
+}
+.display-3 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.border-light {
+  border-color: #eaedf2 !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: #fff;
+  background-color: #0948b3;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #0948b3;
+  background-color: #f3f7fa;
+  border-color: #f0f3f6 #f0f3f6 #f3f7fa;
+}
+.nav-tabs .nav-link {
+  border: 0;
+  padding: 1rem 1rem;
+  background-color: #fff;
+}
+
+.subtitle:hover {
+  color: rgb(81, 163, 245);
+}

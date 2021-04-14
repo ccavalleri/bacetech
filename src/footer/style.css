@@ -1,0 +1,19 @@
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 10px 0px;
+  background: #f4f4f4;
+}
+.font_family {
+  font-family: 'Karla', sans-serif;
+  color: rgb(179, 207, 243);
+}
+.font_color {
+  color: rgb(241, 244, 245);
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.font_slogan {
+  color: rgb(236, 236, 193);
+  font-family: 'New Tegomin', sans-serif;
+}
